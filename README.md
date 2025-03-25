@@ -1,41 +1,49 @@
-## 👋 ¡Bienvenido al repositorio de documentación del servidor Gauss! 🏫
+# HPC Cluster User Documentation
 
-Este repositorio alberga la documentación del **servidor Gauss**, un nodo de
-computación construido en conjunto por la Escuela de Matemáticas y la Escuela de
-Estadística de la Universidad Nacional de Colombia, sede Medellín.
+Welcome to the documentation repository for our High-Performance Computing (HPC)
+cluster. This resource is designed to help researchers, students, and staff
+effectively utilize our computational resources for their research and academic
+projects.
 
-🧠 **Gauss** está diseñado para facilitar simulaciones y tareas computacionales
-de alta exigencia a nuestros profesores, estudiantes e investigadores.
+## Overview
 
-**Aquí encontrará información útil sobre:**
+Our HPC cluster provides computational resources for intensive tasks such as:
 
-- 🚀 Cómo acceder y usar el servidor.
-- ⚙️ Configuraciones y especificaciones técnicas.
-- 📚 Guías detalladas para diferentes tipos de simulaciones.
-- ❓ Preguntas frecuentes y soluciones a problemas comunes.
+- Scientific simulations
+- Data analysis
+- Machine learning workloads
+- Parallel computing operations
 
-### 🗄️ Organización de la documentación:
+## Documentation Structure
 
-La documentación se organiza en las siguientes carpetas:
+This repository is organized following a clear, intuitive structure:
 
-- **Explicaciones:** Artículos a fondo sobre el funcionamiento de Gauss, así
-  como decisiones de diseño.
-- **Tutoriales:** Guías paso a paso para realizar tareas específicas en el
-  servidor.
-- **How-tos:** Soluciones rápidas a problemas comunes.
-- **Referencias:** Descripciones técnicas sobre las tecnologías usadas en el
-  servidor.
+### 📚 Core Documentation
 
-**➡️ Puede acceder a un índice completo de la documentación aquí:**
-[index.md](index.md)
+- [Basic Workflow](docs/basic_workflow.md) - Get started with running your first
+  job
+- [Best Practices](docs/best_practices.md) - Guidelines for efficient cluster
+  usage
+- [Resource Management](docs/resources.md) - Understanding available
+  computational resources
 
-**Este repositorio está en constante desarrollo. ¡Sus comentarios y sugerencias
-son bienvenidos!**
+### 📘 Guides and Tutorials
 
-**¡Esperamos que este recurso facilite y potencie sus proyectos de
-investigación!** 🚀
+- [Job Submission](docs/job_submission.md) - Detailed guide on submitting jobs
+- [Data Management](docs/data_management.md) - Best practices for handling data
+- [Software Modules](docs/modules.md) - Available software and environment
+  modules
 
-## Preguntas frecuentes
+### 🔧 Technical Reference
 
-Tenemos pensado desarrollar esta sección conforme ustedes, los usuarios de
-Gauss, nos soliciten aclarar aspectos claves del servidor.
+- [System Architecture](docs/architecture.md) - Cluster specifications
+- [Queue System](docs/queue_system.md) - Understanding the job queue
+- [Troubleshooting](docs/troubleshooting.md) - Common issues and solutions
+
+## Getting Started
+
+1. If you're new to the cluster, start with our
+   [Basic Workflow Guide](docs/basic_workflow.md)
+2. Review our [Best Practices](docs/best_practices.md) to optimize your usage
+3. Check [Resource Management](docs/resources.md) to understand available
+   computational resources
