@@ -1,4 +1,4 @@
-# HPC Cluster User Documentation
+# Church-Turing HPC Cluster User Documentation
 
 Welcome to the documentation repository for our High-Performance Computing (HPC)
 cluster. This resource is designed to help researchers, students, and staff
