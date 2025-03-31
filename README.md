@@ -22,8 +22,7 @@ This repository is organized following a clear, intuitive structure:
 
 - [Basic Workflow](docs/basic_workflow.md) - Get started with running your first
   job
-- [Best Practices](docs/best_practices.md) - Guidelines for efficient cluster
-  usage
+- [Policies](docs/policies.md) - Guidelines and regulations for cluster usage
 - [Resource Management](docs/resources.md) - Understanding available
   computational resources
 
@@ -44,6 +43,13 @@ This repository is organized following a clear, intuitive structure:
 
 1. If you're new to the cluster, start with our
    [Basic Workflow Guide](docs/basic_workflow.md)
-2. Review our [Best Practices](docs/best_practices.md) to optimize your usage
+2. Review our [Policies](docs/policies.md) to understand the cluster's
+   guidelines and regulations. This document outlines:
+   - What users can expect from the cluster and its administration
+   - What the cluster administrators expect from users
+   - Resource allocation and usage policies
+   - User responsibilities and code of conduct
+   - Service level agreements and support expectations
+   - Data management and security policies
 3. Check [Resource Management](docs/resources.md) to understand available
    computational resources
